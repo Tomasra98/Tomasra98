@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas Ramirez Agudelo</h1>
-<h3 align="center">I'm a passionate developer currently studying Systems Engineering at the Universidad de Medellín. I'm in my sixth semester and am willing to collaborate and open to work.</h3>
+<h3 align="center">I am a passionate developer currently studying Systems Engineering at the University of Medellín, interested in completing a professional internship in software development and related IT areas. I am willing to collaborate and open to working. I excel at adaptability and continuous learning.</h3>
 
 - Email **tomasramirezagudelo@gmail.com**
 
